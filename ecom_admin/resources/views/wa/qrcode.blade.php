@@ -1,0 +1,1 @@
+ <img src="{{ $result }}" alt="" style="height:300px">
